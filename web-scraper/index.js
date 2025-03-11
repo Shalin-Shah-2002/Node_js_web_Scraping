@@ -23,4 +23,4 @@ async function scraping() {
     }
 }
 
-scraping();
+scraping()
